@@ -1,0 +1,1 @@
+import{j as r}from"./jsx-runtime-DEdD30eg.js";import"./index-RYns6xqu.js";const s={parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}},decorators:[o=>r.jsx("div",{style:{margin:"3rem"},children:r.jsx(o,{})})]};export{s as default};
